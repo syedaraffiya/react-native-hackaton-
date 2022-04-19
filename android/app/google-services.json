@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "824105716713",
+    "project_id": "fir-app-9ddde",
+    "storage_bucket": "fir-app-9ddde.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:824105716713:android:65052ad344e25778a95978",
+        "android_client_info": {
+          "package_name": "com.hackaton"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "824105716713-8tg41b8nvk53r4sijvlpnm41715honlm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHqvE-mdpaNThEZojnG3waG2jNzicsrro"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "824105716713-8tg41b8nvk53r4sijvlpnm41715honlm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
